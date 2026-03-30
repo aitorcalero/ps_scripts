@@ -1,0 +1,27 @@
+# Ignore script generated output
+*.log
+*.err
+
+# Passwords, credentials, and API keys
+*.key
+*.pem
+secrets.json
+.env
+
+# PowerShell history and profile
+*.CliXml
+
+# VS Code
+.vscode/
+
+# Python Envs
+.venv/
+__pycache__/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Reorganization script artifact
+Organize-Repo.ps1
