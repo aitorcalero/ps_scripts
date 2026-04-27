@@ -37,8 +37,8 @@ $Config = [ordered]@{
     OllamaMaxLoaded     = 1
     OllamaHost          = '127.0.0.1:11434'
 
-    LocalReasonModel    = 'deepseek-r1:7b'
-    LocalCodeModel      = 'qwen2.5-coder:7b'
+    LocalReasonModel    = 'gemma3:13b'
+    LocalCodeModel      = 'gemma3:13b'
     LocalChatModel      = 'llama3.1:8b'
     LocalVisionModel    = 'llava:7b'
 
